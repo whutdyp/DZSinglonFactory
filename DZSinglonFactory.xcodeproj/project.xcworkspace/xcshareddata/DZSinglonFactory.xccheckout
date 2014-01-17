@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FB3F40D6-8B66-43C4-82BC-38E389C815E3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DZSinglonFactory</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F486D78A-23DF-48F5-A4B3-9EAE053304AE</key>
+		<string>https://github.com/yishuiliunian/DZSinglonFactory.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DZSinglonFactory.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F486D78A-23DF-48F5-A4B3-9EAE053304AE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yishuiliunian/DZSinglonFactory.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F486D78A-23DF-48F5-A4B3-9EAE053304AE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F486D78A-23DF-48F5-A4B3-9EAE053304AE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DZSinglonFactory</string>
+		</dict>
+	</array>
+</dict>
+</plist>

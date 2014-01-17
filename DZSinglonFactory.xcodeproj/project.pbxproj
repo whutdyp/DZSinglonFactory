@@ -19,6 +19,14 @@
 		65AA46D018893FB800916BA6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65AA46B818893FB800916BA6 /* UIKit.framework */; };
 		65AA46D818893FB800916BA6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 65AA46D618893FB800916BA6 /* InfoPlist.strings */; };
 		65AA46DA18893FB800916BA6 /* DZSinglonFactoryTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 65AA46D918893FB800916BA6 /* DZSinglonFactoryTests.m */; };
+		65AA46E51889421100916BA6 /* DZSingletonFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 65AA46E41889421100916BA6 /* DZSingletonFactory.m */; };
+		65AA46E81889427D00916BA6 /* DZasdfasd.m in Sources */ = {isa = PBXBuildFile; fileRef = 65AA46E71889427D00916BA6 /* DZasdfasd.m */; };
+		65AA46EB188945E600916BA6 /* DZbbb.m in Sources */ = {isa = PBXBuildFile; fileRef = 65AA46EA188945E600916BA6 /* DZbbb.m */; };
+		65AA46EE1889465E00916BA6 /* DZaaa.m in Sources */ = {isa = PBXBuildFile; fileRef = 65AA46ED1889465E00916BA6 /* DZaaa.m */; };
+		65AA46F1188946DA00916BA6 /* DZccc.m in Sources */ = {isa = PBXBuildFile; fileRef = 65AA46F0188946DA00916BA6 /* DZccc.m */; };
+		65AA46F41889472800916BA6 /* DZddd.m in Sources */ = {isa = PBXBuildFile; fileRef = 65AA46F31889472800916BA6 /* DZddd.m */; };
+		65AA46F71889477F00916BA6 /* DZeee.m in Sources */ = {isa = PBXBuildFile; fileRef = 65AA46F61889477F00916BA6 /* DZeee.m */; };
+		65AA46FA1889480400916BA6 /* DZeeee.m in Sources */ = {isa = PBXBuildFile; fileRef = 65AA46F91889480400916BA6 /* DZeeee.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +56,22 @@
 		65AA46D518893FB800916BA6 /* DZSinglonFactoryTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DZSinglonFactoryTests-Info.plist"; sourceTree = "<group>"; };
 		65AA46D718893FB800916BA6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		65AA46D918893FB800916BA6 /* DZSinglonFactoryTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DZSinglonFactoryTests.m; sourceTree = "<group>"; };
+		65AA46E31889421100916BA6 /* DZSingletonFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DZSingletonFactory.h; sourceTree = "<group>"; };
+		65AA46E41889421100916BA6 /* DZSingletonFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DZSingletonFactory.m; sourceTree = "<group>"; };
+		65AA46E61889427D00916BA6 /* DZasdfasd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DZasdfasd.h; sourceTree = "<group>"; };
+		65AA46E71889427D00916BA6 /* DZasdfasd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DZasdfasd.m; sourceTree = "<group>"; };
+		65AA46E9188945E600916BA6 /* DZbbb.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DZbbb.h; sourceTree = "<group>"; };
+		65AA46EA188945E600916BA6 /* DZbbb.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DZbbb.m; sourceTree = "<group>"; };
+		65AA46EC1889465E00916BA6 /* DZaaa.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DZaaa.h; sourceTree = "<group>"; };
+		65AA46ED1889465E00916BA6 /* DZaaa.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DZaaa.m; sourceTree = "<group>"; };
+		65AA46EF188946DA00916BA6 /* DZccc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DZccc.h; sourceTree = "<group>"; };
+		65AA46F0188946DA00916BA6 /* DZccc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DZccc.m; sourceTree = "<group>"; };
+		65AA46F21889472800916BA6 /* DZddd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DZddd.h; sourceTree = "<group>"; };
+		65AA46F31889472800916BA6 /* DZddd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DZddd.m; sourceTree = "<group>"; };
+		65AA46F51889477F00916BA6 /* DZeee.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DZeee.h; sourceTree = "<group>"; };
+		65AA46F61889477F00916BA6 /* DZeee.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DZeee.m; sourceTree = "<group>"; };
+		65AA46F81889480400916BA6 /* DZeeee.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DZeeee.h; sourceTree = "<group>"; };
+		65AA46F91889480400916BA6 /* DZeeee.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DZeeee.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +133,22 @@
 			children = (
 				65AA46C318893FB800916BA6 /* DZAppDelegate.h */,
 				65AA46C418893FB800916BA6 /* DZAppDelegate.m */,
+				65AA46E31889421100916BA6 /* DZSingletonFactory.h */,
+				65AA46E41889421100916BA6 /* DZSingletonFactory.m */,
+				65AA46E61889427D00916BA6 /* DZasdfasd.h */,
+				65AA46E71889427D00916BA6 /* DZasdfasd.m */,
+				65AA46E9188945E600916BA6 /* DZbbb.h */,
+				65AA46EA188945E600916BA6 /* DZbbb.m */,
+				65AA46EC1889465E00916BA6 /* DZaaa.h */,
+				65AA46ED1889465E00916BA6 /* DZaaa.m */,
+				65AA46EF188946DA00916BA6 /* DZccc.h */,
+				65AA46F0188946DA00916BA6 /* DZccc.m */,
+				65AA46F21889472800916BA6 /* DZddd.h */,
+				65AA46F31889472800916BA6 /* DZddd.m */,
+				65AA46F51889477F00916BA6 /* DZeee.h */,
+				65AA46F61889477F00916BA6 /* DZeee.m */,
+				65AA46F81889480400916BA6 /* DZeeee.h */,
+				65AA46F91889480400916BA6 /* DZeeee.m */,
 				65AA46C618893FB800916BA6 /* Images.xcassets */,
 				65AA46BB18893FB800916BA6 /* Supporting Files */,
 			);
@@ -242,6 +282,14 @@
 			files = (
 				65AA46C518893FB800916BA6 /* DZAppDelegate.m in Sources */,
 				65AA46C118893FB800916BA6 /* main.m in Sources */,
+				65AA46F1188946DA00916BA6 /* DZccc.m in Sources */,
+				65AA46F71889477F00916BA6 /* DZeee.m in Sources */,
+				65AA46E81889427D00916BA6 /* DZasdfasd.m in Sources */,
+				65AA46FA1889480400916BA6 /* DZeeee.m in Sources */,
+				65AA46F41889472800916BA6 /* DZddd.m in Sources */,
+				65AA46EE1889465E00916BA6 /* DZaaa.m in Sources */,
+				65AA46EB188945E600916BA6 /* DZbbb.m in Sources */,
+				65AA46E51889421100916BA6 /* DZSingletonFactory.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
